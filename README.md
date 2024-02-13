@@ -35,6 +35,9 @@ plusieurs étapes d’analyse et de rétro-conception, avant de me lancer dans l
 
 Au cours d’un autre projet, j’ai installé une machine virtuelle de Debian sur Virtualbox que j’ai paramétrée correctement. Enfin, j’ai conçu un script bash qui crée automatiquement des comptes utilisateurs avec des logins et des mots de passe complexes.
 
+Au cours de ma formation, j’ai étudié les adresses IP et le fonctionnement des routeurs, ainsi que le filtrage des données sur un réseau afin d’en assurer la sécurité. Cela m’a permis de développer une solide compréhension des réseaux informatiques, de la maintenance matérielle, de la sécurité des données et de la résolution de problèmes informatiques. Dans ce cadre, j’ai simulé une infrastructure réseau sur kathara afin de paramétrer correctement les différents composants et créer une connexion ssh avec une machine virtuelle.
+
+
 ### Compétances travaillées
 
 - Le travail en équipe
@@ -59,16 +62,20 @@ organisation
 2010-2022 : J'ai fait de la natation au club
 SAM Mérignac et initiation au
 sauvetage aquatique.\
+<img src="img/samNatation.jpg" alt="Image du jeu du Verger" width="70"/>
+
 Je suis passionné par l’espace
 et l’informatique.\
 Je pratique le vélo et la
 marche.\
 J’aime les romans
-fantastiques/sciences fictions ;
-Je suis un adepte des
+fantastiques/sciences fictions;\
+<img src="img/lacroiseedesmondes.jpg" alt="Image de la trilogie de La croisée des mondes" width="200"/>
+
+Je suis également un adepte des
 expériences à sensations : jet
 ski, chute libre indoor,
 gyropode, parachute,
 ascensionnel, randonnée en
 quad.\
-![Image ]()
+<img src="img/parachuteascentionel.jpg" alt="Image du jeu du Verger" width="250"/>
