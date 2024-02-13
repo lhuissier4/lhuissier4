@@ -26,4 +26,49 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 
 ### Projets Réalisé
 
+Mon parcours m’a permis de maîtriser les bases de la programmation bash sous Linux, Python, Java, C, SQL et
+HTML.\
+Lors d’un projet, j’ai créé plusieurs versions du jeu du verger de HABA en java. Pour cela, j’ai réalisé
+plusieurs étapes d’analyse et de rétro-conception, avant de me lancer dans le codage de cette application qui devait implémenter une interface graphique. Ce projet simulait au mieux les demandes d’un client en prenant en compte des rendus à dates fixes et des exigences précises comme les règles du jeu.
+
+<img src="img/leverger.png" alt="Image du jeu du Verger" width="400"/>
+
+Au cours d’un autre projet, j’ai installé une machine virtuelle de Debian sur Virtualbox que j’ai paramétrée correctement. Enfin, j’ai conçu un script bash qui crée automatiquement des comptes utilisateurs avec des logins et des mots de passe complexes.
+
 ### Compétances travaillées
+
+- Le travail en équipe
+- La qualité de code
+- Programmation bash sous Linux, Python, Java, C, SQL,
+HTML
+- Création d’algorithmes
+- Création de bases de données complexes
+- Création de pages html interactives
+- Filtrage et sécurisation des réseaux
+- Installation de réseau professionnel
+- Installation d’un système d’exploitation
+- Installation de logiciels
+- Connaissance du fonctionnement du binaire
+- Conduite de projets (identification des besoins clients) /
+organisation
+- Rédaction de rapports
+- Maîtrise des logiciels Word et Excel
+
+
+## A propos de moi...
+2010-2022 : J'ai fait de la natation au club
+SAM Mérignac et initiation au
+sauvetage aquatique.\
+Je suis passionné par l’espace
+et l’informatique.\
+Je pratique le vélo et la
+marche.\
+J’aime les romans
+fantastiques/sciences fictions ;
+Je suis un adepte des
+expériences à sensations : jet
+ski, chute libre indoor,
+gyropode, parachute,
+ascensionnel, randonnée en
+quad.\
+![Image ]()
