@@ -9,11 +9,30 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 ## Compétences personnelles
 
 ### Hard Skills
-- Développement web
-- Les bases de données
+
+- Développement Web HTML, Javascript, php 
+![Logo HTML](/img/logos/HTML-E34F26.svg) 
+![Logo Javascript](/img/logos/JavaScript-F7DF1E.svg) 
+![Logo PHP](/img/logos/PHP-777BB4.svg)
+- La programation bash (Linux) 
+![Logo Linux](/img/logos/Linux-grey.svg)
+![Logo Debian](/img/logos/Debian-A81D33.svg)
+![Logo le Bash](/img/logos/Bash-grey.svg)
+
+- Le C++ 
+![Logo C++](/img/logos/C++-00599C.svg)
+- Le Java 
+![Logo Java](/img/logos/Java-red.svg)
+- Le Rust 
+![Logo Rust](/img/logos/Rust-orange.svg)
+- Les bases de données 
+![Logo PostgreSQL](/img/logos/database%20PostgreSQL-blue.svg)
 - L'installation et le paramétrage de réseaux
+![Logo sur le réseau](/img/logos/network-active-brightgreen.svg)
 - Le recueil des besoins d'un client 
-- La programation bash (Linux)
+![Logo receuil des besoins](/img/logos/Recueil%20des%20besoins-blue.svg)
+- La gestion de projet ![Logo gestion de projet](/img/logos/Gestion%20de%20projet-En%20cours-blue.svg)
+
 
 ### Soft Skills
 - Curieux, j’aime tester de nouveaux moyens de codage et suis ouvert à de nouvelles idées​
