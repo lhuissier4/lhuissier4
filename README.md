@@ -32,7 +32,7 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 - Le recueil des besoins d'un client 
 ![Logo receuil des besoins](/img/logos/Recueil%20des%20besoins-blue.svg)
 - La gestion de projet ![Logo gestion de projet](/img/logos/Gestion%20de%20projet-En%20cours-blue.svg)
-
+- Niveau d'anglais correct
 
 ### Soft Skills
 - Curieux, j’aime tester de nouveaux moyens de codage et suis ouvert à de nouvelles idées​
