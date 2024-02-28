@@ -1,8 +1,8 @@
 # PortFolio Lhuissier Rémi
-Bienvenue sur mon portfolio ! Je m'appelle Rémi Lhuissier et je suis étudiant en 2ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) à l'iut du limousin.
+Bienvenue sur mon portfolio ! Je m'appelle Rémi Lhuissier et je suis étudiant en 2ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) à l'IUT du Limousin.
 Je suis quelqu’un de sérieux dans les études et le travail.
-Le travail en équipe est pour moi un point essentiel dans la gestion de projets informatique car il permet de travailler beaucoup plus efficacement en partagant différents points de vues et en apportant de précieuses compétances au projet.
-Un collaborateur apporte un oeil neuf au projet et peut parfois résoudre beaucoup plus rappidement un eventuel bug informatique ou une erreur de logistique.
+Le travail en équipe est pour moi un point essentiel dans la gestion de projets informatiques car il permet de travailler beaucoup plus efficacement en partagant différents points de vues et en apportant de précieuses compétences au projet.
+Un collaborateur apporte un oeil neuf au projet et peut parfois résoudre beaucoup plus rapidement un éventuel bug informatique ou une erreur de logistique.
 
 De plus, la passion, l’excellence et la collaboration sont pour moi des valeurs essentielles dans mon travail.
 
@@ -37,7 +37,7 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 ### Soft Skills
 - Curieux, j’aime tester de nouveaux moyens de codage et suis ouvert à de nouvelles idées​
 
-- Sérieux dans le travail​, mes compétences permettent d'appréhender au mieux les difficultés auxquelles on doit s'attendre et de trouver efficacement des solutions pour les gérer. 
+- Sérieux dans le travail​, mes compétences me permettent d'appréhender au mieux les difficultés auxquelles on doit s'attendre et de trouver efficacement des solutions pour les gérer. 
 
 - Calme et patient, c'est un avantage pour résoudre des bugs informatiques ou pour concevoir des programmes.​
 
@@ -70,7 +70,7 @@ Ce Projet m'a permis d'enrichir mes connaissances des métiers professionnels. C
 
 #### Concevoir et mettre en place une base de données
 
-L'objectif de cette SAE est de montrer que dans le cadre d'un nouveau besoin il est nécessaire d'étudier l'existant, de le maitriser et ensuite de proposer des extensions à la solution existante. Dans un premier temps j'ai réalisé une étude s'appuyant sur une base de données fournie. Le travail principal a consisté à récupérer des données brutes au format CSV puis utiliser le langage SQL pour les analyser et les stocker dans une base de données que j'ai préalablement conçue. Enfin j'ai créé des requêtes SQL afin de produire des analyses sous forme graphique.
+L'objectif de ce projet est de montrer que dans le cadre d'un nouveau besoin il est nécessaire d'étudier l'existant, de le maitriser et ensuite de proposer des extensions à la solution existante. Dans un premier temps j'ai réalisé une étude s'appuyant sur une base de données fournie. Le travail principal a consisté à récupérer des données brutes au format CSV puis utiliser le langage SQL pour les analyser et les stocker dans une base de données que j'ai préalablement conçue. Enfin j'ai créé des requêtes SQL afin de produire des analyses sous forme graphique.
 
 #### Conduire un projet
 
@@ -78,28 +78,25 @@ Le but de ce projet était de se mettre à la place des professionnels de l'épo
 nécessaire de prendre en compte les besoins et exigences de toutes les parties prenantes (affectée positivement ou négativement).
 Il fallait donc imaginer leurs besoins et trouver un moyen d'y répondre afin de satisfaire le maximum de personnes.
 
-J'ai su prendre en compte les besoins de chaque intervenant en fonction de leurs exigences et contraintes.\
-De même, j'ai su imaginer les besoins des employés du Familly Villages. J'aurais pu faire la même chose avec la construction matérielle de la zone
-commerciale.\
-Cela me sera utile afin de recueillir tes exigences et besoins d'un client lors de ma carrière professionnelle en informatique et me permet
-donc de gagner en autonomie et en capacité de réflexion sur un projet donné.
+J'ai su prendre en compte les besoins de chaque intervenant (Riverains, employé, professionnels, ...) en fonction de leurs exigences et contraintes.
+
+Cela me sera utile afin de recueillir tes exigences et besoins d'un client lors de ma carrière professionnelle en informatique. Cette procédure me permet donc de gagner en autonomie et en capacité de réflexion sur un projet donné.
 
 
-### Compétances travaillées
+### Compétences travaillées
 
 - Le travail en équipe
 - La qualité de code
-- Programmation bash sous Linux, Python, Java, C, SQL, HTML
+- Programmation Bash sous Linux, Python, Java, C, SQL, HTML
 - Création d’algorithmes
 - Création de bases de données complexes
-- Création de pages html interactives
+- Création de pages HTML interactives
 - Filtrage et sécurisation des réseaux
 - Installation de réseau professionnel
 - Installation d’un système d’exploitation
 - Installation de logiciels
 - Connaissance du fonctionnement du binaire
-- Conduite de projets (identification des besoins clients) /
-organisation
+- Conduite de projets (identification des besoins clients) / organisation
 - Rédaction de rapports
 - Maîtrise des logiciels Word et Excel
 
