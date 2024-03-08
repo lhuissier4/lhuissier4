@@ -90,8 +90,9 @@ Ce projet consistait à organiser un forum des association fictif :
 Nous étoins mandaté par Mme Lélu, Maire de Auguste, Pour organiser le premier forum des associations de la ville.  
 Pour cela, il a été necessaire d'établire une fiche de demande du projet, le SWOT, les objectifs SMART, Le cahier des charges, le plan de financement, les risques idéntifiés et les meusurer à mettre en place pour les gérer. Il a fallu également, à l'aide d'un diagramme de Gantt, établir l'organisation du projet en phases. J'ai créé l'organigramme de l'équipe projet et un mini site Web a été mis en place pour faire la promotion du forum.  
 https://git.unilim.fr/lhuissier4/sae205_siteinternet  
-<img src="img/SiteForumAssociation.png" alt="Image du jeu du Verger" width="430"/>
-<img src="img/CaserneForumAssociation.png" alt="Image du jeu du Verger" width="430"/>
+<img src="img/SiteForumAssociation.png" alt="Image du jeu du Verger" width="600"/>
+
+<img src="img/CaserneForumAssociation.png" alt="Image du jeu du Verger" width="600"/>
 
 
 ### Compétences travaillées
