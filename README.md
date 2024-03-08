@@ -74,6 +74,7 @@ Ce Projet m'a permis d'enrichir mes connaissances des métiers professionnels. C
 L'objectif de ce projet est de montrer que dans le cadre d'un nouveau besoin il est nécessaire d'étudier l'existant, de le maitriser et ensuite de proposer des extensions à la solution existante. Dans un premier temps j'ai réalisé une étude s'appuyant sur une base de données fournie. Le travail principal a consisté à récupérer des données brutes au format CSV puis utiliser le langage SQL pour les analyser et les stocker dans une base de données que j'ai préalablement conçue. Enfin j'ai créé des requêtes SQL afin de produire des analyses sous forme graphique.
 
 #### Conduire un projet
+##### Le Family Village
 
 Le but de ce projet était de se mettre à la place des professionnels de l'époque qui ont construit le Familly Village de Limoges. Pour cela il était
 nécessaire de prendre en compte les besoins et exigences de toutes les parties prenantes (affectée positivement ou négativement).
@@ -82,6 +83,15 @@ Il fallait donc imaginer leurs besoins et trouver un moyen d'y répondre afin de
 J'ai su prendre en compte les besoins de chaque intervenant (Riverains, employé, professionnels, ...) en fonction de leurs exigences et contraintes.
 
 Cela me sera utile afin de recueillir tes exigences et besoins d'un client lors de ma carrière professionnelle en informatique. Cette procédure me permet donc de gagner en autonomie et en capacité de réflexion sur un projet donné.
+
+##### Le Forum des associations
+
+Ce projet consistait à organiser un forum des association fictif :  
+Nous étoins mandaté par Mme Lélu, Maire de Auguste, Pour organiser le premier forum des associations de la ville.  
+Pour cela, il a été necessaire d'établire une fiche de demande du projet, le SWOT, les objectifs SMART, Le cahier des charges, le plan de financement, les risques idéntifiés et les meusurer à mettre en place pour les gérer. Il a fallu également, à l'aide d'un diagramme de Gantt, établir l'organisation du projet en phases. J'ai créé l'organigramme de l'équipe projet et un mini site Web a été mis en place pour faire la promotion du forum.  
+https://git.unilim.fr/lhuissier4/sae205_siteinternet  
+<img src="img/SiteForumAssociation.png" alt="Image du jeu du Verger" width="430"/>
+<img src="img/CaserneForumAssociation.png" alt="Image du jeu du Verger" width="430"/>
 
 
 ### Compétences travaillées
