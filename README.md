@@ -80,6 +80,8 @@ Le but de ce projet était de se mettre à la place des professionnels de l'épo
 nécessaire de prendre en compte les besoins et exigences de toutes les parties prenantes (affectée positivement ou négativement).
 Il fallait donc imaginer leurs besoins et trouver un moyen d'y répondre afin de satisfaire le maximum de personnes.
 
+<img src="img/planFamilyVillage.jpg" alt="Image du plan du Family Village" width="300"/>
+
 J'ai su prendre en compte les besoins de chaque intervenant (Riverains, employé, professionnels, ...) en fonction de leurs exigences et contraintes.
 
 Cela me sera utile afin de recueillir tes exigences et besoins d'un client lors de ma carrière professionnelle en informatique. Cette procédure me permet donc de gagner en autonomie et en capacité de réflexion sur un projet donné.
@@ -90,9 +92,9 @@ Ce projet consistait à organiser un forum des association fictif :
 Nous étoins mandaté par Mme Lélu, Maire de Auguste, Pour organiser le premier forum des associations de la ville.  
 Pour cela, il a été necessaire d'établire une fiche de demande du projet, le SWOT, les objectifs SMART, Le cahier des charges, le plan de financement, les risques idéntifiés et les meusurer à mettre en place pour les gérer. Il a fallu également, à l'aide d'un diagramme de Gantt, établir l'organisation du projet en phases. J'ai créé l'organigramme de l'équipe projet et un mini site Web a été mis en place pour faire la promotion du forum.  
 https://git.unilim.fr/lhuissier4/sae205_siteinternet  
-<img src="img/SiteForumAssociation.png" alt="Image du jeu du Verger" width="100%"/>
+<img src="img/SiteForumAssociation.png" alt="Image du Site du forum des associations" width="100%"/>
 
-<img src="img/CaserneForumAssociation.png" alt="Image du jeu du Verger" width="100%"/>
+<img src="img/CaserneForumAssociation.png" alt="Image de la caserne du forum des associations" width="100%"/>
 
 
 ### Compétences travaillées
