@@ -50,6 +50,7 @@ HTML.
 
 #### Le jeu du verger - HABA
 Lors d’un projet, j’ai créé plusieurs versions du jeu du verger de HABA en java. Pour cela, j’ai réalisé plusieurs étapes d’analyse et de rétro-conception, avant de me lancer dans le codage de cette application qui devait implémenter une interface graphique. Ce projet simulait au mieux les demandes d’un client en prenant en compte des rendus à dates fixes et des exigences précises comme les règles du jeu.
+https://git.unilim.fr/antoine19/leverger
 
 <img src="img/leverger.png" alt="Image du jeu du Verger" width="400"/>
 
