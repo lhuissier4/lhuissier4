@@ -80,7 +80,7 @@ Le but de ce projet était de se mettre à la place des professionnels de l'épo
 nécessaire de prendre en compte les besoins et exigences de toutes les parties prenantes (affectée positivement ou négativement).
 Il fallait donc imaginer leurs besoins et trouver un moyen d'y répondre afin de satisfaire le maximum de personnes.
 
-<img src="img/planFamilyVillage.jpg" alt="Image du plan du Family Village" width="400"/>
+<img src="img/planFamilyVillage.jpg" alt="Image du plan du Family Village" width="500"/>
 
 J'ai su prendre en compte les besoins de chaque intervenant (Riverains, employé, professionnels, ...) en fonction de leurs exigences et contraintes.
 
