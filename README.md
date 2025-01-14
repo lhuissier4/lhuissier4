@@ -45,10 +45,13 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 
 ### Projets Réalisés
 
-Mon parcours m’a permis de maîtriser les bases de la programmation bash sous Linux, Python, Java, C, SQL et
-HTML.
+Mon parcours m’a permis de maîtriser les bases de la programmation bash sous Linux, Python, Java, C, SQL,
+HTML/CSS/JS et PHP.
 
 #### Créer un RAG - RAGAdmin pour La Poste
+
+<img src="img/Capture d&apos;écran 2025-01-14 090733.png" alt="Image du logo du jeu TemporalIT" width="200" style="border-radius: 15px;"/>   
+
 L'objectif est de concevoir un outil fonctionnant exclusivement en mode hors connexion, en s'appuyant uniquement sur des solutions open source. Les professionnels de La Poste doivent pouvoir interagir avec le chatbot via une interface simple où ils pourront poser leurs questions (via un prompt). Le chatbot, utilisant une architecture de type RAG (Retrieval-Augmented Generation), fournira des réponses pertinentes en s’appuyant sur une base de documentations locales.
 
 <img src="img/Retrieval-Augmented-Generation_en_ohne-Uberschrift-1080x675-1.webp" alt="Image du logo du jeu TemporalIT" width="500"/>
@@ -59,6 +62,10 @@ En outre, le chatbot doit être intégré dans une chaîne CI/CD qui permet :
 - de relancer automatiquement les services en cas d’arrêt,
 - d’envoyer des alertes en cas de dysfonctionnements,
 et de garantir l'accessibilité des logs pour assurer un suivi fiable et efficace du système.
+
+Pour cela, il a été mis a ma disposition un serveur R820 avec une carte Raid et 3 disques de 1 To.
+Le système d'exploitation choisi est Ubuntu Server pour des raisons de performances (Proxmox étant trop lent pour virtualiser un LLM).
+
 
 #### Développer une application - TemporalIT
 
