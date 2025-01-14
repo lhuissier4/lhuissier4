@@ -18,6 +18,7 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 ![Logo Linux](/img/logos/Linux-grey.svg)
 ![Logo Debian](/img/logos/Debian-A81D33.svg)
 ![Logo le Bash](/img/logos/Bash-grey.svg)
+![Logo Ubuntu](/img/logos/Ubuntu-dd4814.svg)
 
 - Le C++ 
 ![Logo C++](/img/logos/C++-00599C.svg)
