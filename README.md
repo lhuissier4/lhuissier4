@@ -48,7 +48,19 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 Mon parcours m’a permis de maîtriser les bases de la programmation bash sous Linux, Python, Java, C, SQL et
 HTML.
 
-#### Développer une application
+#### Créer un RAG - RAGAdmin pour La Poste
+L'objectif est de concevoir un outil fonctionnant exclusivement en mode hors connexion, en s'appuyant uniquement sur des solutions open source. Les professionnels de La Poste doivent pouvoir interagir avec le chatbot via une interface simple où ils pourront poser leurs questions (via un prompt). Le chatbot, utilisant une architecture de type RAG (Retrieval-Augmented Generation), fournira des réponses pertinentes en s’appuyant sur une base de documentations locales.
+
+<img src="img/Retrieval-Augmented-Generation_en_ohne-Uberschrift-1080x675-1.webp" alt="Image du logo du jeu TemporalIT" width="500"/>
+
+Ce chatbot est destiné à assister les équipes de maintenance du système d'information (SI) dans leurs tâches de dépannage. Il doit être capable de lire et assimiler une documentation technique pour proposer des réponses adaptées aux requêtes des utilisateurs.
+En outre, le chatbot doit être intégré dans une chaîne CI/CD qui permet :
+- de gérer le déploiement de l’application,
+- de relancer automatiquement les services en cas d’arrêt,
+- d’envoyer des alertes en cas de dysfonctionnements,
+et de garantir l'accessibilité des logs pour assurer un suivi fiable et efficace du système.
+
+#### Développer une application - TemporalIT
 
 Le but de ce projet consistait à développer un escape game sur le theme de l'histoire de l'informatique.  
 <img src="img/TemporalIT/icon_TemporalIT.png" alt="Image du logo du jeu TemporalIT" width="50"/>    
