@@ -48,6 +48,24 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 Mon parcours m’a permis de maîtriser les bases de la programmation bash sous Linux, Python, Java, C, SQL et
 HTML.
 
+#### Développer une application
+
+Le but de ce projet consistait à développer un escape game sur le theme de l'histoire de l'informatique.  
+<img src="img/TemporalIT/icon_TemporalIT.png" alt="Image du logo du jeu TemporalIT" width="50"/>    
+Le but est donc de réussir des énigmes sur le thème de l'informatique afin de pouvoir progresser dans le jeu.
+Nous avons choisi de créer un jeu en pixel art inspirer du thème du jeu Pokemon Ruby, Sapphire et Emeraude (2002).
+
+Pour ce projet, il était possible de choisir entres plusieurs langages de programmation comme le C#, Javascript ou des logiciels tel que Unity.
+Nous avons choisis d’utiliser le C# car c’est un célèbre langage de programmation qui est optimisé pour le jeux vidéo ce qui correspondait à nos besoins.  
+
+Il nous a fallut apprendre à manipuler le C# et le logiciel Godot engine (similaire à Unity) que nous avons choisit pour ses meilleurs performances.
+
+La salle d'introduction sert de didactitiel du jeu.
+
+<img src="img/TemporalIT/SrceenMusee.png" alt="Image du logo du musée de TemporalIT" width="100%"/>
+
+![Tuto de l'introduction du jeu](img/TemporalIT/tutoMuseeTemporalIT_Full-HD-1080p.gif)
+
 #### Le jeu du verger - HABA
 Lors d’un projet, j’ai créé plusieurs versions du jeu du verger de HABA en java. Pour cela, j’ai réalisé plusieurs étapes d’analyse et de rétro-conception, avant de me lancer dans le codage de cette application qui devait implémenter une interface graphique. Ce projet simulait au mieux les demandes d’un client en prenant en compte des rendus à dates fixes et des exigences précises comme les règles du jeu.\
 https://git.unilim.fr/antoine19/leverger
