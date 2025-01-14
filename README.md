@@ -66,6 +66,7 @@ et de garantir l'accessibilité des logs pour assurer un suivi fiable et efficac
 Pour cela, il a été mis a ma disposition un serveur R820 avec une carte Raid et 3 disques de 1 To.
 Le système d'exploitation choisi est Ubuntu Server pour des raisons de performances (Proxmox étant trop lent pour virtualiser un LLM).
 
+Nous avons dévloppé cette application en python et en HTML/JS via Réact.
 
 #### Développer une application - TemporalIT
 
