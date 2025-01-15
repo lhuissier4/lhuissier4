@@ -12,13 +12,17 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 
 - Développement Web HTML, Javascript, php 
 ![Logo HTML](/img/logos/HTML-E34F26.svg) 
-![Logo Javascript](/img/logos/JavaScript-F7DF1E.svg) 
+![Logo Javascript](/img/logos/JavaScript-F7DF1E.svg)
 ![Logo PHP](/img/logos/PHP-777BB4.svg)
 - La programation bash (Linux) 
 ![Logo Linux](/img/logos/Linux-grey.svg)
 ![Logo Debian](/img/logos/Debian-A81D33.svg)
 ![Logo le Bash](/img/logos/Bash-grey.svg)
 ![Logo Ubuntu](/img/logos/Ubuntu-dd4814.svg)
+
+- Installation de RAG ![Transformers](img/logos/Transformers-ff5733.svg) 
+![Python](img/logos/Python-3776AB.svg)
+![RAG](img/logos/RAG-007ACC.svg)
 
 - Le C++ 
 ![Logo C++](/img/logos/C++-00599C.svg)
