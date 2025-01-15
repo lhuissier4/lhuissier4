@@ -1,5 +1,5 @@
 # PortFolio Lhuissier Rémi
-Bienvenue sur mon portfolio ! Je m'appelle Rémi Lhuissier et je suis étudiant en 2ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) à l'IUT du Limousin.
+Bienvenue sur mon portfolio ! Je m'appelle Rémi Lhuissier et je suis étudiant en 3ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) à l'IUT du Limousin.
 Je suis quelqu’un de sérieux dans les études et le travail.
 Le travail en équipe est pour moi un point essentiel dans la gestion de projets informatiques car il permet de travailler beaucoup plus efficacement en partagant différents points de vues et en apportant de précieuses compétences au projet.
 Un collaborateur apporte un oeil neuf au projet et peut parfois résoudre beaucoup plus rapidement un éventuel bug informatique ou une erreur de logistique.
