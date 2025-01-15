@@ -53,6 +53,7 @@ HTML/CSS/JS et PHP.
 
 <img src="img/Capture d&apos;écran 2025-01-14 090733.png" alt="Image du logo du jeu TemporalIT" width="200" style="border-radius: 15px;"/>   
 
+
 L'objectif est de concevoir un outil fonctionnant exclusivement en mode hors connexion, en s'appuyant uniquement sur des solutions open source. Les professionnels de La Poste doivent pouvoir interagir avec le chatbot via une interface simple où ils pourront poser leurs questions (via un prompt). Le chatbot, utilisant une architecture de type RAG (Retrieval-Augmented Generation), fournira des réponses pertinentes en s’appuyant sur une base de documentations locales.
 
 <img src="img/Retrieval-Augmented-Generation_en_ohne-Uberschrift-1080x675-1.webp" alt="Image du logo du jeu TemporalIT" width="500"/>
@@ -72,7 +73,9 @@ Nous avons dévloppé cette application en python et en HTML/JS via React.
 #### Développer une application - TemporalIT
 
 Le but de ce projet consistait à développer un escape game sur le theme de l'histoire de l'informatique.  
-<img src="img/TemporalIT/icon_TemporalIT.png" alt="Image du logo du jeu TemporalIT" width="50"/>    
+https://github.com/Anosy00/TemporalIT  
+<img src="img/TemporalIT/icon_TemporalIT.png" alt="Image du logo du jeu TemporalIT" width="50"/>  
+
 Le but est donc de réussir des énigmes sur le thème de l'informatique afin de pouvoir progresser dans le jeu.
 Nous avons choisi de créer un jeu en pixel art inspirer du thème du jeu Pokemon Ruby, Sapphire et Emeraude (2002).
 
@@ -152,6 +155,14 @@ https://git.unilim.fr/lhuissier4/sae205_siteinternet
 - Conduite de projets (identification des besoins clients) / organisation
 - Rédaction de rapports
 - Maîtrise des logiciels Word et Excel
+
+## Contacts
+Linkedin : https://www.linkedin.com/in/r%C3%A9mi-lhuissier-07a5502a0/
+
+Email : remi.lhuissier@etu.unilim.fr
+
+
+
 
 
 ## A propos de moi...
