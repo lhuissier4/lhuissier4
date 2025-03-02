@@ -26,7 +26,6 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 
 - Le C++ , C#
   ![Logo C++](/img/logos/C++-00599C.svg)
-  ![Logo C#](/img/logos/C%23-dd4814.svg)
 - Le Java 
 ![Logo Java](/img/logos/Java-red.svg)
 - Le Rust 
