@@ -24,8 +24,9 @@ De plus, la passion, l’excellence et la collaboration sont pour moi des valeur
 ![Python](img/logos/Python-3776AB.svg)
 ![RAG](img/logos/RAG-007ACC.svg)
 
-- Le C++ 
-![Logo C++](/img/logos/C++-00599C.svg)
+- Le C++ , C#
+  ![Logo C++](/img/logos/C++-00599C.svg)
+  ![Logo C#](/img/logos/C%23-dd4814.svg)
 - Le Java 
 ![Logo Java](/img/logos/Java-red.svg)
 - Le Rust 
@@ -72,21 +73,21 @@ et de garantir l'accessibilité des logs pour assurer un suivi fiable et efficac
 Pour cela, il a été mis à ma disposition un serveur R820 avec une carte Raid et 3 disques de 1 To.
 Le système d'exploitation choisi est Ubuntu Server pour des raisons de performances (Proxmox étant trop lent pour virtualiser un LLM).
 
-Nous avons développé cette application en python et en HTML/JS via React.
+J'ai développé cette application en Python et en HTML/JS via React.
 
 #### Développer une application - TemporalIT
 
-Le but de ce projet consistait à développer un escape game sur le thème de l'histoire de l'informatique.  
+Ce projet consistait à développer un escape game sur le thème de l'histoire de l'informatique.  
 https://github.com/Anosy00/TemporalIT  
 <img src="img/TemporalIT/icon_TemporalIT.png" alt="Image du logo du jeu TemporalIT" width="50"/>  
 
 Le but est donc de réussir des énigmes sur le thème de l'informatique afin de pouvoir progresser dans le jeu.
-Nous avons choisi de créer un jeu en pixel art inspiré du thème du jeu Pokemon Ruby, Sapphire et Emeraude (2002).
+Pour cela, j'ai créé un jeu en pixel art inspiré du thème du jeu Pokemon Ruby, Sapphire et Emeraude (2002).
 
 Pour ce projet, il était possible de choisir entre plusieurs langages de programmation comme le C#, Javascript ou des logiciels tels que Unity.
-Nous avons choisi d’utiliser le C# car c’est un célèbre langage de programmation qui est optimisé pour les jeux vidéo ce qui correspondait à nos besoins.  
+J'ai opté pour l'utilisation du C# car c’est un célèbre langage de programmation qui est optimisé pour les jeux vidéo et qui correspond à mes besoins.  
 
-Il nous a fallu apprendre à manipuler le C# et le logiciel Godot engine (similaire à Unity) que nous avons choisi pour ses meilleures performances.
+Il nous a fallu apprendre à manipuler le C# et le logiciel Godot engine (similaire à Unity) que j'ai choisi pour de meilleures performances.
 
 La salle d'introduction sert de didacticiel du jeu.
 
@@ -112,7 +113,7 @@ Au cours de ma formation, j’ai étudié les adresses IP et le fonctionnement d
 
 #### Collaborer au sein d'une équipe informatique
 
-Nous avons fait des recherches sur développement Web sur internet, mais également dans différents supports tels que des documents de presse ou différents ouvrages, afin d'élaborer des questions pertinentes à poser à notre professionnel. Nous avons ensuite pu rédiger nos connaissances et les indications du professionnel pour en faire une présentation de qualité.\
+J'ai fait des recherches sur développement Web sur internet, mais également dans différents supports tels que des documents de presse ou différents ouvrages, afin d'élaborer des questions pertinentes à poser à notre professionnel. J'ai ensuite pu rédiger un script d'après mes connaissances et les indications du professionnel pour en faire une présentation de qualité.\
 Ce Projet m'a permis d'enrichir mes connaissances des métiers professionnels. Cela a été un bon moyen d'apprentissage sur le travail en équipe et la coordination, afin d'acquérir des compétences intrapersonnelles pour travailler en équipe car j'ai pu échanger, donner mon opinion, et travailler sur chaque étape du projet.
 
 #### Concevoir et mettre en place une base de données
