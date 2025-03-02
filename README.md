@@ -135,7 +135,7 @@ Cela me sera utile afin de recueillir les exigences et besoins d'un client lors 
 
 ##### Le Forum des associations
 
-Ce projet consistait à organiser un forum des associations fictif :  
+Ce projet consistait à organiser un forum des associations fictif. 
 Nous étions mandaté par Mme Lélu, Maire de Auguste, pour organiser le premier forum des associations de la ville.  
 Pour cela, il a été nécessaire d'établir une fiche de demande du projet, le SWOT, les objectifs SMART, le cahier des charges, le plan de financement, les risques identifiés et les mesures à mettre en place pour les gérer. Il a fallu également, à l'aide d'un diagramme de Gantt, établir l'organisation du projet en phases. J'ai créé l'organigramme de l'équipe projet et un mini site Web a été mis en place pour faire la promotion du forum.
 https://git.unilim.fr/lhuissier4/sae205_siteinternet  
